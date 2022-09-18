@@ -1,0 +1,24 @@
+.container {
+  margin :20px;
+  width:95vw;
+  height:100vh;
+}
+.button{
+margin:1rem;
+width:200px;
+}
+.button-container{
+  width:200px;
+  display:flex;
+  flex-direction:row;
+}
+input{
+  margin:1rem;
+  width:20%;
+}
+
+textarea{
+  margin:1rem;
+  width:90%;
+  height:60%;
+}
